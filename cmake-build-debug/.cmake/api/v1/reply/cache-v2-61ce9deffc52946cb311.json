@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/mac/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "/Users/mac/CLionProjects/\uac1d\uccb4\uc9c0\ud5a51\uacc4\uc808\ud559\uae30/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/CLionProjects/untitled2/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "/Users/mac/CLionProjects/\uac1d\uccb4\uc9c0\ud5a51\uacc4\uc808\ud559\uae30/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -539,7 +539,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "/Users/mac/CLionProjects/untitled2"
+			"value" : "/Users/mac/CLionProjects/\uac1d\uccb4\uc9c0\ud5a51\uacc4\uc808\ud559\uae30"
 		},
 		{
 			"name" : "CMAKE_INSTALL_NAME_TOOL",
@@ -1111,7 +1111,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/CLionProjects/untitled2/cmake-build-debug"
+			"value" : "/Users/mac/CLionProjects/\uac1d\uccb4\uc9c0\ud5a51\uacc4\uc808\ud559\uae30/cmake-build-debug"
 		},
 		{
 			"name" : "untitled2_IS_TOP_LEVEL",
@@ -1135,7 +1135,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "/Users/mac/CLionProjects/untitled2"
+			"value" : "/Users/mac/CLionProjects/\uac1d\uccb4\uc9c0\ud5a51\uacc4\uc808\ud559\uae30"
 		}
 	],
 	"kind" : "cache",

@@ -3,4 +3,4 @@ project(untitled2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled2 append.c nan.c sinx.c)
+add_executable(untitled2 c++계절학기/2022.12.26/append.c c++계절학기/2022.12.26/nan.c c++계절학기/2022.12.27/sinx.c c++계절학기/2022.12.27/fptest.c c++계절학기/2022.12.27/funpar.c c++계절학기/2022.12.27/typedef.c)
