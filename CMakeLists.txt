@@ -3,4 +3,4 @@ project(untitled2)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(untitled2 append.c nan.c)
+add_executable(untitled2 append.c nan.c sinx.c)
