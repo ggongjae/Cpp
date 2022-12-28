@@ -47,7 +47,9 @@
 				3,
 				4,
 				5,
-				6
+				6,
+				11,
+				12
 			]
 		},
 		{
@@ -73,7 +75,8 @@
 			[
 				7,
 				8,
-				9
+				9,
+				10
 			]
 		}
 	],
@@ -115,7 +118,10 @@
 				6,
 				7,
 				8,
-				9
+				9,
+				10,
+				11,
+				12
 			]
 		}
 	],
@@ -179,6 +185,24 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
 			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.28/bank.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/\uacfc\uc81c/\uacfc\uc81c3.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "c++\uacc4\uc808\ud559\uae30/\uacfc\uc81c/\uacfc\uc81c2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "c++\uacc4\uc808\ud559\uae30/\uacfc\uc81c/\uacfc\uc81c1.c",
 			"sourceGroupIndex" : 0
 		}
 	],
