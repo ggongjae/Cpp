@@ -71,7 +71,8 @@
 			},
 			"sourceIndexes" : 
 			[
-				7
+				7,
+				8
 			]
 		}
 	],
@@ -111,7 +112,8 @@
 				4,
 				5,
 				6,
-				7
+				7,
+				8
 			]
 		}
 	],
@@ -163,6 +165,12 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
 			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.28/example.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.28/rect.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
