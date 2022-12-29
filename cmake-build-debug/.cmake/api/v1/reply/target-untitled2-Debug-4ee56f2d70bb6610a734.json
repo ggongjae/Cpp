@@ -77,7 +77,9 @@
 				8,
 				9,
 				10,
-				13
+				13,
+				14,
+				15
 			]
 		}
 	],
@@ -123,7 +125,16 @@
 				10,
 				11,
 				12,
-				13
+				13,
+				14,
+				15
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				16
 			]
 		}
 	],
@@ -210,8 +221,25 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
-			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.29/test.cpp",
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.29/init.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.29/card/cardm.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.29/card/card1.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.29/card/card1.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"
