@@ -124,6 +124,12 @@ build CMakeFiles/untitled2.dir/c++계절학기/과제/과제1.c.o: C_COMPILER__u
   OBJECT_DIR = CMakeFiles/untitled2.dir
   OBJECT_FILE_DIR = CMakeFiles/untitled2.dir/c++계절학기/과제
 
+build CMakeFiles/untitled2.dir/c++계절학기/2022.12.29/test.cpp.o: CXX_COMPILER__untitled2_Debug /Users/mac/CLionProjects/객체지향1계절학기/c++계절학기/2022.12.29/test.cpp || cmake_object_order_depends_target_untitled2
+  DEP_FILE = CMakeFiles/untitled2.dir/c++계절학기/2022.12.29/test.cpp.o.d
+  FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk -fcolor-diagnostics -std=gnu++14
+  OBJECT_DIR = CMakeFiles/untitled2.dir
+  OBJECT_FILE_DIR = CMakeFiles/untitled2.dir/c++계절학기/2022.12.29
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target untitled2
@@ -132,7 +138,7 @@ build CMakeFiles/untitled2.dir/c++계절학기/과제/과제1.c.o: C_COMPILER__u
 #############################################
 # Link the executable untitled2
 
-build untitled2: CXX_EXECUTABLE_LINKER__untitled2_Debug CMakeFiles/untitled2.dir/c++계절학기/2022.12.26/append.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.26/nan.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/sinx.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/fptest.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/funpar.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/typedef.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/complex.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/example.cpp.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/rect.cpp.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/bank.cpp.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제3.cpp.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제2.c.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제1.c.o
+build untitled2: CXX_EXECUTABLE_LINKER__untitled2_Debug CMakeFiles/untitled2.dir/c++계절학기/2022.12.26/append.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.26/nan.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/sinx.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/fptest.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/funpar.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/typedef.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/complex.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/example.cpp.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/rect.cpp.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.28/bank.cpp.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제3.cpp.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제2.c.o CMakeFiles/untitled2.dir/c++계절학기/과제/과제1.c.o CMakeFiles/untitled2.dir/c++계절학기/2022.12.29/test.cpp.o
   FLAGS = -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.3.sdk
   OBJECT_DIR = CMakeFiles/untitled2.dir
   POST_BUILD = :
