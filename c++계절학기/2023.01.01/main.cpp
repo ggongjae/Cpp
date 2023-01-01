@@ -1,10 +1,8 @@
-//#include "Dog.h"
-//#include "DogSchool.h"
-//int main(){
-//    Dog *d1, *d2;
-//    d1 = new Dog("철수?");
-//    d2 = new Dog("영희");
-//    DogSchool *ds = new DogSchool("명량 애견학교");
-//    ds->insert(d1);
-//    d1->bark();
-//}
+#include "Boy.h"
+#include "Girl.h"
+int main(){
+    Boy *b = new Boy("김철수");
+    Girl *g = new Girl("박영은");
+    b->setGF(g); g->setBF(b); // 남친/여친을 설정하는 함수
+    b->hello(); g->hello();
+}

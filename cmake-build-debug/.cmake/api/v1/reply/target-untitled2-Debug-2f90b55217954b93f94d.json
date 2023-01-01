@@ -91,7 +91,9 @@
 				28,
 				29,
 				31,
-				33
+				33,
+				34,
+				36
 			]
 		}
 	],
@@ -151,7 +153,9 @@
 				28,
 				29,
 				31,
-				33
+				33,
+				34,
+				36
 			]
 		},
 		{
@@ -163,7 +167,9 @@
 				20,
 				27,
 				30,
-				32
+				32,
+				35,
+				37
 			]
 		}
 	],
@@ -342,23 +348,23 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
-			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Dog.cpp",
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/practice/Dog.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Dog.h",
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/practice/Dog.h",
 			"sourceGroupIndex" : 1
 		},
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
-			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/DogSchool.cpp",
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/practice/DogSchool.cpp",
 			"sourceGroupIndex" : 0
 		},
 		{
 			"backtrace" : 1,
-			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/DogSchool.h",
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/practice/DogSchool.h",
 			"sourceGroupIndex" : 1
 		},
 		{
@@ -366,6 +372,28 @@
 			"compileGroupIndex" : 1,
 			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/main.cpp",
 			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Boy.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Boy.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Girl.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2023.01.01/Girl.h",
+			"sourceGroupIndex" : 1
 		}
 	],
 	"type" : "EXECUTABLE"

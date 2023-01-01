@@ -34,4 +34,13 @@
 2	90	1672105172023194479	CMakeFiles/untitled2.dir/c++계절학기/2022.12.27/sinx.c.o	f169376245dfa6fe
 8	121	1672276909639033228	CMakeFiles/untitled2.dir/c++계절학기/과제/과제3.cpp.o	d9627518b97d10e6
 341	415	1672363897061312045	CMakeFiles/untitled2.dir/c++계절학기/2022.12.29/Dog/SolutionB/main.cpp.o	d6feb594117b9ca5
-0	171	1672584064983907584	build.ninja	bee501bc6f3500d1
+0	171	1672593028740457902	build.ninja	bee501bc6f3500d1
+4	728	1672594042629211663	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/practice/card.cpp.o	b05e41c27c95520c
+8	731	1672594042629229874	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/practice/Dog.cpp.o	8b95ec8d2a713e91
+8	734	1672594042629234823	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/practice/main.cpp.o	9dc75e464d26b050
+730	839	1672594042762465349	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/practice/DogSchool.cpp.o	957911af60a5ea38
+735	2735	1672594044649627875	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/main.cpp.o	2120c2807433e212
+731	2872	1672594044790703206	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/Boy.cpp.o	cdd6de08daf751f9
+839	2873	1672594044790725723	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/Girl.cpp.o	b56d4994f11ab6e7
+5	1288	1672594151441351029	CMakeFiles/untitled2.dir/c++계절학기/2023.01.01/main.cpp.o	2120c2807433e212
+1289	1445	1672594151598529200	untitled2	c32cccbb79cd16d3
