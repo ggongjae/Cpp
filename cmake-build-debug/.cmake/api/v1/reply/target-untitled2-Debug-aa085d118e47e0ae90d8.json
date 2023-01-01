@@ -87,7 +87,9 @@
 				23,
 				25,
 				27,
-				28
+				28,
+				29,
+				30
 			]
 		}
 	],
@@ -143,7 +145,9 @@
 				23,
 				25,
 				27,
-				28
+				28,
+				29,
+				30
 			]
 		},
 		{
@@ -327,6 +331,18 @@
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
 			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.30/Bank.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/2022.12.30/Rect.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "c++\uacc4\uc808\ud559\uae30/\uacfc\uc81c/\uacfc\uc81c4.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],
