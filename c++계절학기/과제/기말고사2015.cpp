@@ -3,8 +3,7 @@
 #include <iomanip>
 #define MAX 5
 using namespace std;
-
-class Student{
+class Student {
 public:
     int num;
     char name[10];
@@ -35,20 +34,20 @@ public:
         math = m;
         sci = s;
     }
-    Totscore operator++(int);
     friend void Total(Totscore kim[]);
     friend void Print(Totscore *stu);
+    Totscore operator++(int);
 };
 Totscore Totscore::operator++(int){
-    kor += 3;
-    eng += 3;
-    math += 3;
-    sci += 3;
+    kor = kor + 3;
+    eng = eng + 3;
+    math = math + 3;
+    sci = sci + 3;
     return(*this);
 }
 template <class T>
 T Average(T tot){
-    return tot/4.00;
+    return tot / 4.00;
 }
 void Total(Totscore kim[]){
     for(int i=0; i<MAX; i++){
@@ -56,6 +55,8 @@ void Total(Totscore kim[]){
         kim[i].avg = Average<double>(kim[i].tot);
     }
 }
+
+kim[i].stu->tot
 void Print(Totscore *stu) {
     for (int i = 0; i < MAX; i++) {
         if (stu[i].avg >= 86.00) {
@@ -72,11 +73,11 @@ void Print(Totscore *stu) {
 }
 int main(){
     Totscore st[MAX] = {
-        Totscore(101,"Kim",85,90,80,77),
-        Totscore(102,"Lee",90,95,89,85),
-        Totscore(103,"Park",80,70,70,55),
-        Totscore(104,"Hong",75,80,90,85),
-        Totscore(105,"Kang",85,90,85,85)
+            Totscore(101,"Kim",85,90,80,77),
+            Totscore(102,"Lee",90,95,89,85),
+            Totscore(103,"Park",80,70,70,55),
+            Totscore(104,"Hong",75,80,90,85),
+            Totscore(105,"Kang",85,90,85,85)
     };
     for (int i = 0; i < MAX; i++) {
         st[i] = st[i]++;
